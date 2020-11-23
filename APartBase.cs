@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace FinalProject
 {
+    //Base for MC parts
     abstract class APartBase
     {
         public string   CurrentSelectedFile { get; protected set; }
@@ -16,9 +17,9 @@ namespace FinalProject
         protected bool Active;
         protected bool ShowDrives;
         protected Int32 CursorPos;
-        protected Int32 ColumnStartIndex; // с какого столбца начинать печатать файлы и тп (надо на 2 ставить) 
+        protected Int32 ColumnStartIndex; 
         protected Int32 TotalContentLength;
-        protected Int32 OverCameItems; // бля пока что в душе не ебу как назвать это говно, это показатель того насколько дальше от конца длинны мы ушли (если 0 то всё оставляем как есть)
+        protected Int32 OverCameItems; 
         protected Int32 DirStartIndex, FileStartIndex;
         protected Int32 Pointer;
 
@@ -100,7 +101,7 @@ namespace FinalProject
             if (Pointer > -1)
                 Pointer--;
         }
-        public void ChangeHighlightDown() //работает но надо перекопипастить на правую сторону
+        public void ChangeHighlightDown() 
         {
             if (!Active)
                 return;
