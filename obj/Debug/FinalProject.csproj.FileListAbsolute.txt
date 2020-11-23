@@ -1,0 +1,14 @@
+E:\123123\Projects\FinalProject\obj\Debug\FinalProject.csprojAssemblyReference.cache
+E:\123123\Projects\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+E:\123123\Projects\FinalProject\bin\Debug\FinalProject.exe.config
+E:\123123\Projects\FinalProject\bin\Debug\FinalProject.exe
+E:\123123\Projects\FinalProject\bin\Debug\FinalProject.pdb
+E:\123123\Projects\FinalProject\obj\Debug\FinalProject.exe
+E:\123123\Projects\FinalProject\obj\Debug\FinalProject.pdb
+E:\Desktop\FinalProject\bin\Debug\FinalProject.exe.config
+E:\Desktop\FinalProject\bin\Debug\FinalProject.exe
+E:\Desktop\FinalProject\bin\Debug\FinalProject.pdb
+E:\Desktop\FinalProject\obj\Debug\FinalProject.csprojAssemblyReference.cache
+E:\Desktop\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+E:\Desktop\FinalProject\obj\Debug\FinalProject.exe
+E:\Desktop\FinalProject\obj\Debug\FinalProject.pdb
